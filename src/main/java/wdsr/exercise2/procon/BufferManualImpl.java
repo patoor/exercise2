@@ -7,6 +7,7 @@ package wdsr.exercise2.procon;
 public class BufferManualImpl implements Buffer {
 	public void submitOrder(Order order) throws InterruptedException {
 		// TODO
+		
 	}
 	
 	public Order consumeNextOrder() throws InterruptedException {
